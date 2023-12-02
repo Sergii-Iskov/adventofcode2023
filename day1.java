@@ -9,6 +9,7 @@ import java.util.HashMap;
 /**
  * This task "Day 1: Trebuchet?!" is from https://adventofcode.com/2023/day/1
  * We need to calculate the sum of all of the calibration values of document.
+ * Created by Sergii Iskov, 2023/ Version 1.0
  */
 public class day1 {
     static HashMap<String, String> digs = new HashMap<>();
